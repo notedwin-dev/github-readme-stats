@@ -2,6 +2,9 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <p align="center">This is a cloned repo to self-host my own vercel instance. To support the original project, click me!</p>
+ </a>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
